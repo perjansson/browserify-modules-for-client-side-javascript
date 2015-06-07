@@ -1,0 +1,13 @@
+{
+  "name": "Browserify - modules for client side javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Per Jansson",
+  "devDependencies": {
+    "jquery": "^2.1.4"
+  }
+}

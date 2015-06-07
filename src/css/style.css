@@ -1,0 +1,40 @@
+body {
+	background-color: #A9DFEE;
+}
+
+.calculator-input > div {
+	margin-top: 25px;
+}
+
+.calculator-input input {
+	border-radius: 15px;
+	background-color: #16B0DB;
+	color: #fff;
+  border-color: #9ecaed;
+  box-shadow: 0 0 15px #9ecaed;
+  font-size: 2.75em;
+  height: 80px !important;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.calculator-input input::-webkit-input-placeholder {
+   color: #fff;
+}
+
+.calculator-input input:-moz-placeholder { /* Firefox 18- */
+   color: #fff;  
+}
+
+.calculator-input input::-moz-placeholder {  /* Firefox 19+ */
+   color: #fff;  
+}
+
+.calculator-input input:-ms-input-placeholder {  
+   color: #fff;  
+}
+
+#result {
+   color: #16B0DB;
+   font-size: 75px;
+}
